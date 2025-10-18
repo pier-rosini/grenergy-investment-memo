@@ -1,4 +1,4 @@
-# Privia Health Investment Memo
+# Grenergy Renovables Investment Memo
 
 This is an example of a private equity-style public-to-private investment recommendation, structured as a typical deal memo. 
 
